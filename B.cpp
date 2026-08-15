@@ -1,0 +1,4 @@
+namespace Goo
+{
+	void doSomething(){ }
+}
