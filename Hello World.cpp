@@ -25,9 +25,11 @@ struct Season
     double averageTemperature{};
 };
 
+
+
 int main()
 {
-  
+   
 }
 
 void sort_20_6() {
