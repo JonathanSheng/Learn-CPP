@@ -29,7 +29,8 @@ struct Season
 
 int main()
 {
-   
+    bool x{};
+    std::cout << sizeof(x);
 }
 
 void sort_20_6() {
